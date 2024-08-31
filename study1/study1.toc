@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{Blender Installation}{3}{0}{1}
+\beamer@sectionintoc {2}{github manual}{6}{0}{2}
