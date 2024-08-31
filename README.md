@@ -13,4 +13,4 @@
 ## News 
 *2024/08/31: github repository is made.*
 
-*2024/08/31: ppt template is uploaded
+*2024/08/31: ppt template is uploaded.*
