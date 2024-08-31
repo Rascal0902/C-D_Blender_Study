@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.10)  31 AUG 2024 15:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.10)  31 AUG 2024 23:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -789,6 +789,92 @@ LaTeX Font Info:    Trying to load font information for LUC+nanumgt on input lin
 File: lucnanumgt.fd 2013/02/12 v0.1 Nanum Gothic font definitions
 ) [1
 
-{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-!pdfTeX error: pdflatex.exe (file c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map): fflush() failed (Invalid argument)
- ==> Fatal error occurred, no output PDF file produced!
+{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./study1.toc) [2
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
+ (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
+ (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 41.
+ (c:/texlive/2022/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
+)
+<image/blender_icon.png, id=107, 100.57574pt x 22.28325pt>
+File: image/blender_icon.png Graphic file (type png)
+<use image/blender_icon.png>
+Package pdftex.def Info: image/blender_icon.png  used on input line 41.
+(pdftex.def)             Requested size: 119.24294pt x 26.42012pt.
+ [3
+
+ <./image/blender_icon.png>]
+<image/install1.jpg, id=150, 443.256pt x 368.577pt>
+File: image/install1.jpg Graphic file (type jpg)
+<use image/install1.jpg>
+Package pdftex.def Info: image/install1.jpg  used on input line 62.
+(pdftex.def)             Requested size: 119.24294pt x 99.15155pt.
+<image/install2.jpg, id=151, 459.51675pt x 314.3745pt>
+File: image/install2.jpg Graphic file (type jpg)
+<use image/install2.jpg>
+Package pdftex.def Info: image/install2.jpg  used on input line 62.
+(pdftex.def)             Requested size: 119.24294pt x 81.57713pt.
+ [4
+
+ <./image/install1.jpg> <./image/install2.jpg>]
+<image/install3.jpg, id=180, 646.21425pt x 342.078pt>
+File: image/install3.jpg Graphic file (type jpg)
+<use image/install3.jpg>
+Package pdftex.def Info: image/install3.jpg  used on input line 69.
+(pdftex.def)             Requested size: 340.6956pt x 180.3557pt.
+ [5
+
+ <./image/install3.jpg>]
+<image/github_register.png, id=207, 606.46574pt x 415.5525pt>
+File: image/github_register.png Graphic file (type png)
+<use image/github_register.png>
+Package pdftex.def Info: image/github_register.png  used on input line 87.
+(pdftex.def)             Requested size: 170.3478pt x 116.72166pt.
+ [6
+
+ <./image/github_register.png>]
+<image/create_repository.png, id=235, 418.56375pt x 251.13824pt>
+File: image/create_repository.png Graphic file (type png)
+<use image/create_repository.png>
+Package pdftex.def Info: image/create_repository.png  used on input line 104.
+(pdftex.def)             Requested size: 170.3478pt x 102.20859pt.
+ [7
+
+ <./image/create_repository.png>]
+\tf@nav=\write6
+\openout6 = `study1.nav'.
+
+\tf@toc=\write7
+\openout7 = `study1.toc'.
+
+\tf@snm=\write8
+\openout8 = `study1.snm'.
+
+ (./study1.aux)
+Package rerunfilecheck Info: File `study1.out' has not changed.
+(rerunfilecheck)             Checksum: 359717214349D04F170BCA05C359B9FF;257.
+ ) 
+Here is how much of TeX's memory you used:
+ 23100 strings out of 477678
+ 452345 string characters out of 5833467
+ 711968 words of memory out of 5000000
+ 41340 multiletter control sequences out of 15000+600000
+ 488979 words of font info for 97 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 128i,16n,122p,504b,738s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmac.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmad.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmae.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb1.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb2.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb4.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb5.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmbb.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmbc.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc0.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc1.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc2.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc5.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc6.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd1.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd2.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd5.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd6.pfb>
+Output written on study1.pdf (7 pages, 848843 bytes).
+PDF statistics:
+ 382 PDF objects out of 1000 (max. 8388607)
+ 292 compressed objects within 3 object streams
+ 17 named destinations out of 1000 (max. 500000)
+ 137 words of extra memory for PDF output out of 10000 (max. 10000000)
+
