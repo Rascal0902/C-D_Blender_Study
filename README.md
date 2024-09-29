@@ -16,3 +16,5 @@
 *2024/08/31: ppt template is uploaded. (study0)*
 
 *2024/09/02: Introduction slide is uploaded (study1)*
+
+*2024/09/29: study 2,3 txt file is uploaded*
